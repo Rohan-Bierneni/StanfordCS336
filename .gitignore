@@ -1,0 +1,18 @@
+# PyCharm IDE files
+.idea/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Data directories (adjust if you need to keep small, essential data)
+data/
+train_data.txt
+
+# Operating System files
+.DS_Store
+Thumbs.db
